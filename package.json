@@ -1,0 +1,26 @@
+{
+  "name": "thincloud-v2-test-device",
+  "version": "1.0.0",
+  "description": "ThinCloud v2 Test Device (Node SDK)",
+  "main": "index.js",
+  "dependencies": {
+    "@yonomi/thincloud-v2-node-sdk": "^1.0.0",
+    "dotenv": "^8.0.0",
+    "esm": "^3.2.25"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limawebdev1/thincloud-v2-test-device.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/limawebdev1/thincloud-v2-test-device/issues"
+  },
+  "homepage": "https://github.com/limawebdev1/thincloud-v2-test-device#readme"
+}
